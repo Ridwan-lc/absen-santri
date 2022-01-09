@@ -1,6 +1,6 @@
 <?php 
 //membuatKoneksiKeDataBase
-$koneksi = mysqli_connect("192.168.1.",//namaServer
+$koneksi = mysqli_connect("192.168.1.10",//namaServer
                           "root",//usernameServer
                           "root",//password
                           "db_santri");//namaDataBase
