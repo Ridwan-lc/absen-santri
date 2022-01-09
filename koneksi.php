@@ -4,7 +4,4 @@ if ($koneksi) {
   echo "terhubung";
 }else "tidak"
 
-
-$nama = mysqli_query()
-
 ?>
