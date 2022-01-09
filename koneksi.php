@@ -3,7 +3,7 @@
 $koneksi = mysqli_connect("192.168.1.",//namaServer
                           "root",//usernameServer
                           "root",//password
-                          "data_santri");//namaDataBase
+                          "db_santri");//namaDataBase
   //melakukanPengecekan
 if ($koneksi/*yangDiCek*/) {
   echo "terhubung";
